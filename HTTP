@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  <body>
+    <h3>HomeKia</h3>
+    <ul>
+      <li>
+        <a href="/index.html">Home</a>
+      </li>
+      <li>
+        <a href="/moon.html">Moon</a>
+      </li>
+      <li>
+        <a href="/about.html">About</a>
+      </li>
+    </ul>
+    <img src="/img/moon.png">
+    <p>Welcome to the Moonlanding Facts Homepages!</p>
+  </body>
+</html>
+
+
+<!doctype html>
+<html>
+  <body>
+    <h3>Pop-Star Quiz</h3>
+    <a href="/pop-quiz.html">Pop Star Quiz</a>
+  </body>
+</html>
+
+<!doctype html>
+<html>
+  <body>
+    <h3>Which song are you?</h3>
+    <p>"Express Yourself" By Madonna</p>
+    <input type="checkbox">
+    <p>"Juice" by Lizzo</p>
+    <input type="checkbox">
+    <p>"Wannabe" by Spice Girls</p>
+    <input type="checkbox">
+  </body>
+</html>
